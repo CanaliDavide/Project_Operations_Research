@@ -1,0 +1,6 @@
+Solution with total cost: 335.97
+Cost to open markets: 66.0
+Cost to refurbish: 269.97
+Chosen markets: 1,6,12,14,16,22,24,29,36,40,42,43,45,50
+Route of vehicle 1: 1,45,22,29,50,12,14,42,16,36,40,1
+Route of vehicle 2: 1,6,43,24,1
